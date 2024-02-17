@@ -3,8 +3,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 import random
 
-TOKEN: Final = '440430076:AAHhozKbjIdLuNSzBnOTCWzgCdm3NcdNFvc'
-BOT_USERNAME: Final = "@Fishabot"
+TOKEN: Final = 'ADD TOKEN'
+BOT_USERNAME: Final = "ADD BOT ID"
 
 questions = {
     "What is the capital of France?": "Paris",
